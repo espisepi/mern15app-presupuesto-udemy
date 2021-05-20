@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Pregunta from './componets/Pregunta';
-import Formulario from './componets/Formulario';
-import Listado from './componets/Listado';
+import Pregunta from './components/Pregunta';
+import Formulario from './components/Formulario';
+import Listado from './components/Listado';
 
 function App() {
 
